@@ -1,0 +1,15 @@
+body{
+  background-image:linear-gradient(rgb(199, 139, 149),rgb(154, 154, 179),yellowgreen,) ;
+  background-repeat:no-repeat ;
+  width: 100%;
+  margin: 25px;
+}
+h3{
+  color: peru;
+}
+h2{
+  color: rgba(243, 9, 9, 0.331);
+}
+h1{
+  text-align: center;
+}
